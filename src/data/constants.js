@@ -5,3 +5,5 @@ export default {
   open: open,
   close: close,
 }
+
+//https://home.unicode.org/
